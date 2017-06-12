@@ -4,4 +4,4 @@
 
 # copyright
 
-我知道github是公開的，因為沒錢設定為private呀！不要幹我的文，若有需求請[聯絡我](fxp61005@gmail.com)，謝謝指教！
+我知道github是公開的，因為沒錢設定為private呀！不要幹我的文，若有需求請[聯絡我](https://github.com/KodeWorker)，謝謝指教！
