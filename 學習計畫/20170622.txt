@@ -1,0 +1,34 @@
+# 學習計畫 (2017/06/22)
+
+## 精進Python
+
+### 書單
+
+由於工作上優先考量精進Python的應用，預定優先閱讀完以下書籍：
+[1] Automate Boring Stuff with Python
+[2] The Hitchhiker's Guide to Python
+[3] Python: Master the Art of Design Pattern
+
+### Python Projects
+
+目前有兩個較有興趣的Project想要開發：
+[1] Python語音處理系統
+[2] Python遊戲開發套件設計：預計使用PyQt5+PySFML進行開發
+
+## 複習C/C++
+
+### 書單
+
+這個語言算是老本行了，只是太久沒用就一整個生疏了，但是又不想花太多時間在基礎複習上，所以還是開了一本書單。
+
+- 開始複習的流程大約是在閱讀完Python書單的三本之後進行
+
+[1] Modern C++ Programming with Test-Driven Development
+
+### C++ Projects
+
+佩珊建議：重頭開發一個Project的成本太高了，學習曲線會很漫長，所以選定一個有趣的Github Project，開始對其新增功能會是一個收穫比較快速的方法。
+
+## 其他
+
+說好的寫小說、畫漫畫咧？！每周還是撥出一天時間來寫一些隨筆散文吧！
